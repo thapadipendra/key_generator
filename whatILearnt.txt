@@ -1,4 +1,5 @@
 https://vercel.com/ to deploy fast
+https://bulma.io/ is used for css similar to bootstrap
 
 event binding (),interpolation {{}},property binding [],structural directive *ngif,attribute directive .
 
