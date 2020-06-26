@@ -1,0 +1,5 @@
+https://vercel.com/ to deploy fast
+
+event binding (),interpolation {{}},property binding [],structural directive *ngif,attribute directive .
+
+
